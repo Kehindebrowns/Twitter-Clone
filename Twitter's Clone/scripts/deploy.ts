@@ -1,5 +1,5 @@
 import { ethers } from "hardhat";
-
+// function active
 async function main() {
   const ContractFactory = await ethers.getContractFactory("MyToken");
 
